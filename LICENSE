@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+DATASET NOTICE
+
+The dataset used in this project was provided as part of the educational 
+materials for the Udemy course "Azure Databricks & Spark Core For Data 
+Engineers" by Ramesh Retnasamy. The original dataset is not included 
+in this repository. This repository contains only the implementation, 
+data engineering pipelines, and project documentation. If you are enrolled 
+in the course, please obtain the dataset directly from the course materials.
