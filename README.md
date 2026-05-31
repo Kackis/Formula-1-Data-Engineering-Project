@@ -7,3 +7,4 @@ The dataset used in this project was provided as part of an educational course a
 All engineering, analytics, transformations, dashboards, and architecture implementations are my own work.
 
 ## Pipeline architecture
+![Pipeline Workflow](docs/pipeline_workflow.jpg)
