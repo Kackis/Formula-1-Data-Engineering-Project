@@ -53,7 +53,8 @@ The project implements a Medallion Architecture using Unity Catalog in Azure Dat
 - Landing layer stores source files.
 - Bronze layer contains raw ingested data.
 - Silver layer contains cleansed and transformed datasets.
-- Gold layer contains dimensional models and analytical tables used for reporting and dashboarding.
+- Gold layer contains dimensional models used for reporting and dashboarding
+- Analytical layer contains SQL code, dashboards and diagrams 
 
 ## Pipeline architecture
 ![Pipeline Workflow](docs/pipeline_workflow.jpg)
