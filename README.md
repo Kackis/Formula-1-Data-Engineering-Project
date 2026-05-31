@@ -8,24 +8,24 @@ All engineering, analytics, transformations, dashboards, and architecture implem
 
 ## Architecture
 
-Source Data <br>
-     ↓ <br>
+Source Data      <br>
+     ↓           <br>
 Azure Data Lake  <br>
-     ↓ <br>
-Databricks <br>
- ┌─────────┐
- │ Bronze  │
- └─────────┘
-     ↓
- ┌─────────┐
- │ Silver  │
- └─────────┘
-     ↓
- ┌─────────┐
- │  Gold   │
- └─────────┘
-     ↓
-Dashboard
+     ↓           <br>
+Databricks       <br>
+ ┌─────────┐     <br>
+ │ Bronze  │     <br>
+ └─────────┘     <br>
+     ↓           <br>
+ ┌─────────┐     <br>
+ │ Silver  │     <br>
+ └─────────┘     <br>
+     ↓           <br>
+ ┌─────────┐     <br>
+ │  Gold   │     <br>
+ └─────────┘     <br>
+     ↓           <br>
+Dashboard        <br>
 
 ## Tech stack
 
