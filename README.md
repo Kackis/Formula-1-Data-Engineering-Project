@@ -30,7 +30,7 @@ Dashboard
 ![Pipeline Workflow](docs/pipeline_workflow.jpg)
 
 ### 5. Lakehouse Data Organization
-![Pipeline Workflow](docs/catalog.jpg)
+![Lakehouse Organization](docs/catalog.jpg)
 
 The project implements a Medallion Architecture using Unity Catalog in Azure Databricks.
 
@@ -41,7 +41,7 @@ The project implements a Medallion Architecture using Unity Catalog in Azure Dat
 - Analytical layer contains SQL code, dashboards and diagrams
 
 ### 6. Dashboard Examples
- 
+![Lakehouse Organization](docs/catalog.jpg) 
    
 ### 7. Technology
 
