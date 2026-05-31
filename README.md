@@ -5,3 +5,5 @@ Azure Databricks data engineering and analytics project using medallion architec
 The dataset used in this project was provided as part of an educational course and is used here in accordance with the course portfolio usage permission.
 
 All engineering, analytics, transformations, dashboards, and architecture implementations are my own work.
+
+## Pipeline architecture
