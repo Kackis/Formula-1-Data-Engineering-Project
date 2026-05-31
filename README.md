@@ -41,7 +41,7 @@ The project implements a Medallion Architecture using Unity Catalog in Azure Dat
 - Analytical layer contains SQL code, dashboards and diagrams
 
 ### 6. Dashboard Examples
-![Lakehouse Organization](docs/catalog.jpg) 
+![Constructors 1983](docs/constructors/constructor_championship_1983.jpg) 
    
 ### 7. Technology
 
