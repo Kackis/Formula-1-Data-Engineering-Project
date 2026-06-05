@@ -84,3 +84,14 @@ Orchestration:
 
 Analytics:
 - Databricks Dashboards
+
+### 9. Project Setup
+
+To run this project, the following components are required:
+
+- Azure Databricks Workspace
+- Azure Data Lake Storage Gen2
+- Apache Spark Runtime
+- Python and SQL support enabled in Databricks
+
+The notebooks and workflows included in this repository can be imported into Azure Databricks and adapted to another Formula 1 dataset with a similar structure.
