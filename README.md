@@ -8,6 +8,21 @@ The dataset used in this project was provided as part of an educational course a
 
 All engineering, analytics, transformations, dashboards, and architecture implementations are my own work.
 
+### 3. Business Objective
+
+Data is distributed across multiple source files containing information about races, drivers, constructors, circuits, results, and sprint events. The objective of this project is to integrate these datasets into a single, consistent analytical model that enables analysis.
+
+The data is cleansed, standardized, and enriched to create a reliable foundation for reporting. Race results are processed to assign championship points based on finishing positions, allowing the calculation of season standings for both drivers and constructors.
+
+The final analytical layer enables users to:
+* Analyze driver championship standings by season.
+* Analyze constructor championship standings by season.
+* Compare performance across different years and teams.
+* Track historical Formula 1 trends and achievements.
+* Generate dashboards and reports for business analysis.
+
+For example, users can view the top-performing drivers in the 1953 season or analyze constructor rankings based on the cumulative points earned by their teams.
+
 ### 3. Solution Architecture
 
 ```
