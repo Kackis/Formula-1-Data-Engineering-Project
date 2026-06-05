@@ -23,7 +23,7 @@ The final analytical layer enables users to:
 
 For example, users can view the top-performing drivers in the 1953 season or analyze constructor rankings based on the cumulative points earned by their teams.
 
-### 3. Solution Architecture
+### 4. Solution Architecture
 
 ```
 Source Data
@@ -41,10 +41,10 @@ Gold
 Dashboard
 ```
 
-### 4. Data pipeline 
+### 5. Data pipeline 
 ![Pipeline Workflow](docs/pipeline_workflow.jpg)
 
-### 5. Lakehouse Data Organization
+### 6. Lakehouse Data Organization
 ![Lakehouse Organization](docs/catalog.jpg)
 
 The project implements a Medallion Architecture using Unity Catalog in Azure Databricks.
@@ -55,7 +55,7 @@ The project implements a Medallion Architecture using Unity Catalog in Azure Dat
 - Gold layer contains dimensional models used for reporting and dashboarding
 - Analytical layer contains SQL code, dashboards and diagrams
 
-### 6. Dashboard Examples
+### 7. Dashboard Examples
 ![Constructors 1983](docs/constructors/constructor_championship_1983.jpg) 
 best constructors in 1983
 
@@ -64,7 +64,7 @@ best drivers in 1995
 
 More dashbords are in folder "docs"
 
-### 7. Technology
+### 8. Technology
 
 Cloud Platform:
 - Microsoft Azure
